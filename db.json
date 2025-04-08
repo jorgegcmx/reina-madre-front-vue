@@ -1,0 +1,14 @@
+{
+    "citas": [
+      {
+        "id": 1,
+        "nombre": "Christian",
+        "fecha": "2025-04-09",
+        "hora": "00:26:00",
+        "numeroCita": "CIT-1744129621777",
+        "nombreMedico": "Ana",
+        "tipo": "Consulta"
+      }
+    ]
+  }
+  
